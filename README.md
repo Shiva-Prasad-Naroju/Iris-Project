@@ -24,5 +24,5 @@ Try the live Streamlit app here:
 
 ## Output Image:
 
-[Iris Flower](output_images\iris_1.png)
+![Iris Flower](output_images\iris_1.png)
 

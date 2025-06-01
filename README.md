@@ -22,11 +22,6 @@ Try the live Streamlit app here:
 
 - Interactive Input: Users can input flower features and get instant predictions.
 
+## Contact:
 
-
-
-
-
-
-
-
+- Email: shivanaroju26@gmail.com

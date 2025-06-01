@@ -22,12 +22,6 @@ Try the live Streamlit app here:
 
 - Interactive Input: Users can input flower features and get instant predictions.
 
-<<<<<<< HEAD
 ## Output Image:
 ![Iris Flower](output_images\iris_1.png)
 
-=======
-## Contact:
->>>>>>> 2e373b50a65a01a6aa3900ad2221dbddb75d17bc
-
-- Email: shivanaroju26@gmail.com
